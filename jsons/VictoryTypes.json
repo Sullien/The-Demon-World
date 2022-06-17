@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Demonic",
+        "victoryScreenHeader": "Annex cities, bulid Ley LInes\nand summon Lucifer!",
+        "milestones": ["Build [Demon World Portal]"],
+        "victoryString": "You successfully bring the power of demons to the world. Time to celebrate, time to kill!"
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+]
