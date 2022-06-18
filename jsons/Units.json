@@ -382,14 +382,16 @@
 		"replaces": "Nuclear Missile",
 		"requiredTech": "Future Tech",
 		"requiredResource": "Fiend Soul"
-		"movement": 8,
-		"strength": 500,
+		"movement": 100,
+		"strength": 999,
 		"cost": 12800,
 		"uniques" : ["Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 		"Hidden when religion is disabled",
 		"No movement cost to pillage",
 		"Only available <with [Fiend Soul]>",
 		"Consumes [1] [Fiend Soul]",
+		"[10] additional attacks per turn",
+		"Only available <if [Demon World Portal] is constructed>"
 		"Will not be displayed in Civilopedia"],
 		"promotions": ["Conceptual Existence"],
 		"attackSound": "demonhit"
