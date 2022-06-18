@@ -47,8 +47,8 @@
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
 		"Can only be built [in annexed cities]",
-		"[+10]% Production when constructing [Demon] Units [in all cities]",
-		"[+10]% Production when constructing [Ranged Wizard] Units [in all cities]",
+		"[+10]% Production when constructing [Demon] units [in all cities]",
+		"[+10]% Production when constructing [Ranged Wizard] units [in all cities]",
 		"[+80]% Production when constructing [Demon World Portal] wonders [in all cities]",
 		"Doubles Gold given to enemy if city is captured",
 		"Destroyed when the city is captured"]
@@ -75,9 +75,9 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+10]% [Food] [in this city]",
 		"[+10]% [Culture] [in this city]",
-		"[+10]% Production when constructing [Demon] Units [in this city]",
-		"[+10]% Production when constructing [Ranged Wizard] Units [in this city]",
-		"[+10]% Production when constructing [Fighter] Units [in this city]",
+		"[+10]% Production when constructing [Demon] units [in this city]",
+		"[+10]% Production when constructing [Ranged Wizard] units [in this city]",
+		"[+10]% Production when constructing [Fighter] units [in this city]",
 		"Destroyed when the city is captured"]
 	},
 	{
@@ -93,7 +93,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["New [Military] units start with [10] Experience [in this city]",
 		"All newly-trained [non-air] units [in this city] receive the [Magic Flight] promotion",
-		"[+10]% Production when constructing [Ranged Wizard] Units [in this city]",
+		"[+10]% Production when constructing [Ranged Wizard] units [in this city]",
 		"Destroyed when the city is captured"]
 	},
 	{
@@ -112,9 +112,9 @@
 		"hurryCostModifier": 25,
 		"uniques": ["New [Ranged Wizard] units start with [10] Experience [in this city]",
 		"All newly-trained [Military] units [in this city] receive the [Magic Barrier] promotion",
-		"[+10]% Production when constructing [Ranged Wizard] Units [in this city]",
-		"[+10]% Production when constructing [Demon] Units [in this city]",
-		"[+10]% Production when constructing [Fighter] Units [in this city]",
+		"[+10]% Production when constructing [Ranged Wizard] units [in this city]",
+		"[+10]% Production when constructing [Demon] units [in this city]",
+		"[+10]% Production when constructing [Fighter] units [in this city]",
 		"Destroyed when the city is captured"]
 	},
 	{
@@ -132,8 +132,8 @@
 		"[+10]% [Food] [in this city]",
 		"[+5]% [Culture] [in this city]",
 		"[+30]% [Science] [in this city]",
-		"[+10]% Production when constructing [Demon] Units [in this city]",
-		"[+10]% Production when constructing [Ranged Wizard] Units [in this city]",
+		"[+10]% Production when constructing [Demon] units [in this city]",
+		"[+10]% Production when constructing [Ranged Wizard] units [in this city]",
 		"Destroyed when the city is captured"]
 	},
 	{
@@ -150,9 +150,9 @@
 		"hurryCostModifier": 25,
 		"uniques": ["New [Ranged Wizard] units start with [20] Experience [in this city]",
 		"All newly-trained [Demon] units [in this city] receive the [Magic Sensing] promotion",
-		"[+20]% Production when constructing [Ranged Wizard] Units [in this city]",
-		"[+20]% Production when constructing [Demon] Units [in this city]",
-		"[+20]% Production when constructing [Fighter] Units [in this city]",
+		"[+20]% Production when constructing [Ranged Wizard] units [in this city]",
+		"[+20]% Production when constructing [Demon] units [in this city]",
+		"[+20]% Production when constructing [Fighter] units [in this city]",
 		"Destroyed when the city is captured"]
 	},
 	{
