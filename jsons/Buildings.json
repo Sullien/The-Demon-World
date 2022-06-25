@@ -245,6 +245,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Congrats on summoning the first boss, hey? The next one boss will be the White Rider. Try to annex more cities with this boss in order to summon quickly.\n\nBosses will not be displayed in the tech tree nor the civilopedea, so you have to discover it yourself."
 	},
 	{
 		"name": "Summon White Rider",
@@ -258,6 +259,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Second Boss unlocked! Just for reminding, when these Bosses die, they will NOT return the souls. So you'd better be careful!"
 	},
 	{
 		"name": "Summon Red Rider",
@@ -271,6 +273,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Now the third one. Since you can't check its detailed information in the wiki, why not check its promotion page?"
 	},
 	{
 		"name": "Summon Black Rider",
@@ -284,6 +287,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "The forth one. I can't think of more tips, so I'll leave it blank here (at least for now) :D"
 	},
 	{
 		"name": "Summon Pale Rider",
@@ -297,6 +301,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "The last 'Rider' Boss. Don't forget to build the Demon World Portal after annexing enough cities!"
 	},
 	{
 		"name": "Summon The Trumpeter",
@@ -310,6 +315,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Beeeeeeeeeeeeeeep"
 	},
 	{
 		"name": "Summon Beelzebub",
@@ -323,6 +329,7 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Now the only boss left is the final one. Keep climbing the tech tree!"
 	},
 	{
 		"name": "Summon Demi-Fiend",
@@ -336,5 +343,6 @@
 		"Will not be displayed in Civilopedia",
 		"Limited to [1] per Civilization",
 		"Unsellable"]
+		"quote": "Final Boss. Game over."
 	},
 ]
